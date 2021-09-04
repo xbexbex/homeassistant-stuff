@@ -1,5 +1,5 @@
 blueprint:
-  name: Motion-activated Swith
+  name: Motion-activated Switch
   description: Turn on a switch when motion is detected.
   domain: automation
   source_url: https://github.com/xbexbex/homeassistant-stuff/blob/master/blueprints/motion-switch.yaml
